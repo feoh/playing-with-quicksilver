@@ -4,6 +4,8 @@ module.exports = {
     title: "playing-with-quicksilver",
   },
   plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-mdx",
     {
