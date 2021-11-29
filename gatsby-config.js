@@ -8,6 +8,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-mdx",
+    "gatsby-remark-images",
     // {
     //   resolve: "gatsby-source-filesystem",
     //   options: {
