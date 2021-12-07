@@ -25,3 +25,9 @@
   font-weight: 700;
   margin: 3rem 0;
 }
+
+body {
+  background-color: lightblue;
+  color: darkblue;
+  text-shadow: 1px 1px darkgray; 
+}
