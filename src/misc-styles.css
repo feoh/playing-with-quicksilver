@@ -1,0 +1,12 @@
+.post-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-list article h2 link {
+  font-size: .8em;
+}
+
+.post-list article p {
+  font-size: .6em;
+}
