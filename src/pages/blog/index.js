@@ -5,7 +5,7 @@ import '../../misc-styles.css'
 
 const BlogPage = ({ data }) => {
     return (
-        <Layout pageTitle="My Blog Posts">
+        <Layout>
             <div className='post-list'>
                 {
                     data.allMdx.nodes.map(node => (

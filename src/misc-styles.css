@@ -4,9 +4,10 @@
 }
 
 .post-list article h2 link {
-  font-size: .8em;
+  font-size: .6em;
 }
 
 .post-list article p {
+  font-family: 'Courier New', Courier, monospace;
   font-size: .6em;
 }
