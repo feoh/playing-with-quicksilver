@@ -9,7 +9,7 @@ const IndexPage = () => {
       <p>Computing is the mind at play. Let's explore that!</p>
       <StaticImage
         alt="Playing With Quicksilver"
-        src="..\images\iStock-123202811.jpg"
+        src="../images/iStock-123202811.jpg"
       />
     </Layout>
   )
