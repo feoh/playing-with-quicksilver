@@ -7,7 +7,7 @@ const AboutPage = () => {
         <Layout pageTitle="About Me">
             <StaticImage
                 alt="My Picture"
-                src="..\images\Chris_Brewery.jpg"
+                src="../images/Chris_Brewery.jpg"
             />
             <p>Hi there! My name's Chris Patti.</p>
             <p>I grew up in the 80s playing video games.</p>
