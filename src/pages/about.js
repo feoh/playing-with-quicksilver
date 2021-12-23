@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 
 const AboutPage = () => {
     return (
-        <Layout pageTitle="About Me">
+        <Layout>
             <StaticImage
                 alt="My Picture"
                 src="../images/Chris_Brewery.jpg"

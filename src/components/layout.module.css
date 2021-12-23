@@ -6,7 +6,7 @@
 
 
 .heading {
-  color: rebeccapurple;
+  color: #FF9900;
 }
 .nav-links {
   display: flex;
@@ -17,17 +17,18 @@
   padding-right: 2rem;
 }
 .nav-link-text {
-  color: black;
+  color: #00FF00;
 }
+
 .site-title {
   font-size: 3rem;
-  color: #5F6B61;
-  text-shadow: 2px 2px #5e9dc8;
+  color: #FF0000;
+  text-shadow: 2px 2px #00FF00;
   font-weight: 700;
   margin: 3rem 0;
 }
 
 body {
-  background-color: #DCF0F7;
-  color: #0c2c52;
+  background-color: white;
+  color: #0000FF;
 }
