@@ -8,6 +8,8 @@ const AboutPage = () => {
             <StaticImage
                 alt="My Picture"
                 src="../images/Chris_Brewery.jpg"
+                width={640}
+                height={480}
             />
             <p>Hi there! My name's Chris Patti.</p>
             <p>I grew up in the 80s playing video games.</p>
