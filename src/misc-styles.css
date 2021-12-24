@@ -1,13 +1,15 @@
-.post-list {
-  display: flex;
-  flex-direction: column;
-}
 
-.post-list article h2 a {
+article h2 a {
   font-size: .6em;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 
-.post-list article p {
+article p {
   font-family: 'Courier New', Courier, monospace;
   font-size: .6em;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
 }
