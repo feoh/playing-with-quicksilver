@@ -11,13 +11,15 @@ const AboutPage = () => {
                 width={640}
                 height={480}
             />
-            <p>Hi there! My name's Chris Patti.</p>
-            <p>I grew up in the 80s playing video games.</p>
-            <p>One day, I was sitting there playing some game on my <a href="https://en.wikipedia.org/wiki/Intellivision">Mattel Intellivision</a>, and I had the same epiphany hundreds and thousands of others had around the same time.</p>
-            <p>I realized <em>I</em> wanted to be the one controlling the little world playing out behind the TV screen.</p>
-            <p>That's when my love affair with computing began.</p>
+            <p>Hi! My name's Chris Patti!</p>
+            <p>From a very early age, one of my most defining characteristics is that I'm curious about EVERYTHING!</p>
+            <p>I love spending time with my lovely wife, my adorable rescue dog Cookie, and my <a href="https://www.amicablelodge.com">lodge brothers.</a></p>
+            <p>I think we'll leave it at that for now. I'd like my posts to do most of the talking. Thanks for visiting!</p>
+
+            
         </Layout>
     )
+
 }
 
 export default AboutPage
