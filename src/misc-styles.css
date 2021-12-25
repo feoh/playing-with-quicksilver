@@ -1,15 +1,11 @@
 
 article h2 a {
   font-size: .6em;
-  border: 0px;
-  padding: 0px;
-  margin: 0px;
+  margin-bottom: 0em;
 }
 
 article p {
   font-family: 'Courier New', Courier, monospace;
   font-size: .6em;
-  border: 0px;
-  padding: 0px;
-  margin: 0px;
+  margin-top: 0em;
 }
