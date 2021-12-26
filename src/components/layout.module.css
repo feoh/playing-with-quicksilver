@@ -12,6 +12,7 @@
   display: flex;
   list-style: none;
   padding-left: 0;
+  font-weight: bold;
 }
 .nav-link-item {
   padding-right: 2rem;
@@ -31,4 +32,5 @@
 body {
   background-color: white;
   color: #0000FF;
+  font-size: 1rem;
 }
