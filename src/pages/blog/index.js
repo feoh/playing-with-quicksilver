@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Layout from '../../components/layout'
 import { Link, graphql } from 'gatsby'
-import '../../misc-styles.css'
+// import '../../misc-styles.css'
 
 const BlogPage = ({ data }) => {
     return (
@@ -24,14 +24,18 @@ const BlogPage = ({ data }) => {
 
 export const query = graphql`
     query {
-        allMdx(sort: {fields: frontmatter___date, order: DESC}) {
+        allMdx(
+            sort: {fields: frontmatter___date, order: DESC}
+            filter: {frontmatter: {status: {eq: "published"}}}
+        ) {
             nodes {
-                frontmatter {
-                    date(formatString: "MMMM D, YYYY")
-                    title
-                }
-                id
-                slug
+            frontmatter {
+                date(formatString: "MMMM D, YYYY")
+                title
+                status
+            }
+            id
+            slug
             }
         }
     }
