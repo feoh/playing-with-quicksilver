@@ -10,6 +10,7 @@ const AboutPage = () => {
                 src="../images/Chris_Brewery.jpg"
                 width={640}
                 height={480}
+                loading="eager"
             />
             <p>Hi! My name's Chris Patti!</p>
             <p>From a very early age, one of my most defining characteristics is that I'm curious about EVERYTHING!</p>
