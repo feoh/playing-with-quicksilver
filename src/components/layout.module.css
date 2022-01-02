@@ -18,13 +18,13 @@
   padding-right: 2rem;
 }
 .nav-link-text {
-  color: #00FF00;
+  color: #FF0000;
 }
 
 .site-title {
   font-size: 3rem;
   color: #FF0000;
-  text-shadow: 2px 2px #00FF00;
+  text-shadow: 2px 2px #0000FF;
   font-weight: 700;
   margin: 3rem 0;
 }

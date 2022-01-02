@@ -12,6 +12,7 @@ const IndexPage = () => {
         src="../images/iStock-123202811.jpg"
         width={640}
         height={480}
+        loading="eager"
       />
     </Layout>
   )

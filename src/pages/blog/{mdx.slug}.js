@@ -14,6 +14,7 @@ const BlogPost = ({data}) => {
           <GatsbyImage
             image={image}
             alt={data.mdx.frontmatter.hero_image_alt}
+            loading="eager"
           /> 
           <p className={ photoCreditText }>
               Photo Credit:{" "}
