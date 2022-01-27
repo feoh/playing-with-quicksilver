@@ -5,6 +5,8 @@ slug: this-is-mine
 status: published
 ---
 
+![Cookie The Rescue Chiweenie](../src/images/CookieLoungeTongue.png)
+
 This is my blog. There are many like it, but this one is 
 authentically mine.
 

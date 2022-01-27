@@ -3,7 +3,7 @@ module.exports = {
       title: `playing-with-quicksilver`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-image", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
+  plugins: ["gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",
@@ -24,5 +24,17 @@ module.exports = {
         "path": "./blog/"
       },
       _key: "blog"
+  }, {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        {
+          resolve: `gatsby-remark-images`,
+          options: {
+            maxWidth: 800,
+          },
+        },
+      ],
+    },
   }]
 };
