@@ -1,12 +1,18 @@
 import React from "react"
 import { Link } from "gatsby"
+import { postListLink, postListDate } from './post-list.module.css'
 
 const PostLink = ({ post }) => (
-    <div>
-        <Link to={post.frontmatter.slug}>
-            {post.frontmatter.title} ({post.frontmatter.date})
-        </Link>
-    </div>
+    <article>
+        <h2 className={postListLink}>
+            <Link to={post.frontmatter.slug}>
+                {post.frontmatter.title}
+            </Link>
+        </h2>
+        <p className={postListDate}>
+            {post.frontmatter.date}
+        </p>
+    </article>
 )
 
 export default PostLink

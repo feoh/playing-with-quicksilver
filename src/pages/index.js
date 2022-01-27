@@ -1,35 +1,20 @@
-import React from "react"
-import { graphql } from "gatsby"
-import PostLink from "../components/post-link"
+import * as React from 'react'
+import Layout from '../components/layout'
+import { StaticImage } from 'gatsby-plugin-image'
 
-const IndexPage = ({
-                     data: {
-                       allMarkdownRemark: { edges },
-                     },
-                   }) => {
-  const Posts = edges
-      .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-      .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
-
-  return <div>{Posts}</div>
+const IndexPage = () => {
+  return (
+    <Layout pageTitle="">
+      <p>Computing is the mind at play. Let's explore that!</p>
+      <StaticImage
+        alt="Playing With Quicksilver"
+        src="../images/iStock-123202811.jpg"
+        width={640}
+        height={480}
+        loading="eager"
+      />
+    </Layout>
+  )
 }
-
+// Step 3: Export your component
 export default IndexPage
-
-export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 250)
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            slug
-            title
-          }
-        }
-      }
-    }
-  }
-`
