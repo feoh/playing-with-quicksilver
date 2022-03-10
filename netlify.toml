@@ -1,4 +1,4 @@
 [build]
-  base    = ""
+  base    = "playing-with-quicksilver"
   publish = "output"
   command = "nikola build"
