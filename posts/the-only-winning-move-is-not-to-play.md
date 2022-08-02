@@ -5,12 +5,11 @@
 .. tags: life,philosophy
 .. status: published
 .. category: 
+.. previewimage: /images/TheOnlyWinningMove.png
 .. link: 
 .. description: 
 .. type: text
 -->
-
-![Retro styled CRT showing title](/images/TheOnlyWinningMove.png)
 
 I have always in my heart of hearts been an idealist.
 

@@ -1,2 +1,1 @@
 nikola[extras]
-Markdown==3.3
