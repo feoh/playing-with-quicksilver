@@ -372,7 +372,7 @@ COMPILERS = {
 # This option lets you use an image to be used if the post doesn't have it.
 # The default is None, valid values are URLs or output paths like
 # "/images/foo.jpg"
-# DEFAULT_PREVIEW_IMAGE = None
+DEFAULT_PREVIEW_IMAGE = "/images/iStock-123202811.jpg" 
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.

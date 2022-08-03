@@ -5,11 +5,12 @@
 .. tags: life,philosophy
 .. status: published
 .. category: 
-.. previewimage: /images/TheOnlyWinningMove.png
 .. link: 
 .. description: 
 .. type: text
 -->
+
+![Retro style CRT Terminal Image With Title](/images/TheOnlyWinningMove.png)
 
 I have always in my heart of hearts been an idealist.
 
@@ -50,3 +51,7 @@ I'll read the news. I'll do my functional research when election time comes, and
 But that's it. Beyond that I intend to focus my time and energy on things that bring me joy like spending time with my wife and rescue dog or indulging my endless passion for the more whimsical side of technology.
 
 That's the compromise I've come to. Life's too short to fixate on everything that's terrible, and there's only so much one person can do about it anyway. I'll exercise the minimal power that I have responsibly and beyond that to heck with it. I'm done.
+
+To be clear, this doesn't mean I plan on laying down to die. There are issues that are **important** to me, and I intend to keep fighting for what I know in my heart to be right.
+
+This is more about limiting the amount of toxin I ingent so I can stay healthy enough to fight another day :)
