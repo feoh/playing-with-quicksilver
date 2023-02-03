@@ -23,3 +23,9 @@ This did consist of some things some people might feel smelled too much like
 work (I wrote a lot of skill building code using exercises from
 [Pybites](https://codechalleng.es)). That aside though, most of what I did aside
 from the occasional bit of goofing off was read and think.
+
+One of the books I read is [The Surveillance
+State](https://www.goodreads.com/book/show/40030605-the-surveillance-state---big-data-freedom-and-you)
+and it's about how China is using technology to create a dystopian hellscape for
+its citizens. The irony is that many (perhaps most) are just fine with that,
+unless they happen to be Uighur.
