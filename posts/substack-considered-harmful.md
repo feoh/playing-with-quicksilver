@@ -3,7 +3,7 @@
 .. slug: substack-considered-harmful
 .. date: 2023-04-27 05:21:20 UTC-04:00
 .. tags: writing,cuulture,online,internet,society,problems,substack
-.. status: Draft
+.. status: published
 .. category: 
 .. link: 
 .. description: 
