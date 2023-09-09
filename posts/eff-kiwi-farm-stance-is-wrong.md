@@ -1,4 +1,10 @@
-# EFF Kiwi Farms Blog Post
+<!--
+.. title: The EFF is Wrong About Kiwi Farms
+.. slug: eff-kiwi-farm-stance-is-wrong
+.. date: 2023-09-09 19:35:18 UTC-04:00
+.. tags: eff,internet,policy,law,isp,utility,kiwifarms
+.. type: text
+-->
 
 Seeing a lot of people (rightly?) be up in arms about the @eff@mastodon.social's
 stance on Kiwifarms.
