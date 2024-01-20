@@ -3,6 +3,7 @@
 .. slug: this-is-mine
 .. date: 2022-03-09 18:13:31 UTC-05:00
 .. tags: personal,blog
+.. previewimage: /images/CookieLoungeTongue.png
 .. category: introduction
 .. type: text
 .. author: Chris Patti

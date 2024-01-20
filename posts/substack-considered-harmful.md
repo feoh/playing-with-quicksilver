@@ -3,6 +3,7 @@
 .. slug: substack-considered-harmful
 .. date: 2023-04-27 05:21:20 UTC-04:00
 .. tags: writing,cuulture,online,internet,society,problems,substack
+.. previewimage: /images/Echo_And_The_Lightman.jpg
 .. status: published
 .. category: 
 .. link: 

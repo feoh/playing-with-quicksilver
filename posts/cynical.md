@@ -3,6 +3,7 @@
 .. slug: cynical
 .. date: 2023-04-23 21:28:15 UTC-04:00
 .. tags: life,mind,thoughts,cynicism,gratitude,hope,world,politics
+.. previewimage: /images/Forgotten_Old_Man_In_Argentina.jpg
 .. status: draft
 .. category: 
 .. link: 

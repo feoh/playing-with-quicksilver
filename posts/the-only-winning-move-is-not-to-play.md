@@ -3,6 +3,7 @@
 .. slug: the-only-winning-move-is-not-to-play
 .. date: 2022-07-29 21:01:39 UTC-04:00
 .. tags: life,philosophy
+.. previewimage: /images/TheOnlyWinningMove.png
 .. status: published
 .. category: 
 .. link: 
