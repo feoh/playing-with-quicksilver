@@ -1,4 +1,4 @@
-<!--
+[<!--](<!--.md)
 .. title: I am SO DONE With the Masking Policy Issue
 .. slug: i-am-so-done-with-the-masking-policy-issue
 .. date: 2024-05-28 12:30:51 UTC-04:00
