@@ -1,15 +1,9 @@
-[tool.poetry]
+[project]
 name = "playing-with-quicksilver"
 version = "0.1.0"
-description = "My personal Nikola blog"
-authors = ["Chris Patti <feoh@feoh.org>"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.11"
-nikola = {extras = ["extras"], version = "^8.2.4"}
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = [
+    "nikola[extras]>=8.3.1",
+]
