@@ -9,6 +9,9 @@
 .. type: text
 -->
 
+[I wrote this post last year and never finished it. I think that fact says a lot about the
+VERY mixed feelings I have on the whole mess. I'm publishing it that way. Just because. -Chris]
+
 The recent news around Amanda Palmer and Neil Gaiman is provoking some deep
 thoughts around the nature of the relationship between art, most notably popular
 art, and artists.
