@@ -11,7 +11,7 @@ else
 fi
 
 AWS_PROFILE="${AWS_PROFILE:-personal}"
-S3_BUCKET="${S3_BUCKET:-playingwithquicksilver.com}"
+S3_BUCKET="${S3_BUCKET:-playingwithquicksilver}"
 CLOUDFRONT_DISTRIBUTION_ID="${CLOUDFRONT_DISTRIBUTION_ID:-EYB8HL9XV79RV}"
 
 /home/feoh/.openclaw/workspace/.venv/bin/python scripts/convert_nikola_to_hugo.py
