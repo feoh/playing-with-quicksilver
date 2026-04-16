@@ -6,9 +6,8 @@ a:hover { text-decoration: underline; }
 .header-wrap { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; }
 .site-title { font-size: 1.4rem; font-weight: 700; color: #111; letter-spacing: 0.01em; }
 nav a { margin-left: 1rem; }
-.hero { padding: 3rem 0 2.2rem; border-bottom: 1px solid #e5e5e5; display: grid; grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr); gap: 1.5rem; align-items: end; }
+.hero { padding: 3rem 0 2.2rem; border-bottom: 1px solid #e5e5e5; }
 .hero-copy h1 { font-size: clamp(2.4rem, 6vw, 4rem); line-height: 1.02; margin: 0; }
-.hero-aside { background: #f6f7fb; border: 1px solid #e5e8f0; border-radius: 16px; padding: 1rem 1.1rem; color: #4b5567; box-shadow: 0 8px 24px rgba(30, 41, 59, 0.05); }
 .dek { font-size: 1.12rem; margin: 0.6rem 0 0; max-width: 42rem; color: #313847; }
 .eyebrow, .meta { color: #666; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.08em; }
 .featured { padding: 2rem 0; border-bottom: 1px solid #e5e5e5; }
@@ -27,4 +26,4 @@ nav a { margin-left: 1rem; }
 .content blockquote { margin: 1.5rem 0; padding: 0.1rem 1rem; border-left: 4px solid #d8deeb; color: #495166; background: #f8f9fc; }
 .site-footer { border-top: 1px solid #ddd; margin-top: 2rem; background: #fff; }
 .footer-wrap { display: flex; justify-content: space-between; gap: 1rem; align-items: center; padding: 1.25rem 1rem 2rem; color: #666; font-size: 0.95rem; }
-@media (max-width: 780px) { .hero { grid-template-columns: 1fr; } .header-wrap, .footer-wrap { display: block; } nav { margin-top: 0.75rem; } nav a:first-child { margin-left: 0; } }
+@media (max-width: 780px) { .header-wrap, .footer-wrap { display: block; } nav { margin-top: 0.75rem; } nav a:first-child { margin-left: 0; } }
