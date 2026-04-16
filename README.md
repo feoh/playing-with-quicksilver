@@ -21,4 +21,17 @@ If not, you can use the local workspace binary:
 ```bash
 python scripts/convert_nikola_to_hugo.py
 .tools/hugo/hugo --destination public
+python scripts/generate_legacy_feeds.py
+```
+
+## Deploy
+
+```bash
+./deploy.sh
+```
+
+Optional overrides:
+
+```bash
+AWS_PROFILE=personal S3_BUCKET=playingwithquicksilver.com ./deploy.sh
 ```
