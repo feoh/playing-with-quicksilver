@@ -9,6 +9,8 @@ from pathlib import Path
 import yaml
 from markdownify import markdownify as md
 
+TEASER_MARKER = '<!-- TEASER_END -->'
+
 ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = ROOT / 'posts'
 CONTENT_DIR = ROOT / 'content'
@@ -51,11 +53,26 @@ def normalize_date(value: str | None) -> str | None:
 
 
 def clean_markdown_body(text: str) -> str:
+    text = text.replace(TEASER_MARKER, '')
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip() + '\n'
 
 
-def normalize_meta(meta: dict[str, object], fallback_slug: str) -> dict[str, object]:
+def extract_description(body: str) -> str | None:
+    for chunk in body.split('\n\n'):
+        chunk = chunk.strip()
+        if not chunk or chunk.startswith('![') or chunk.startswith('<iframe'):
+            continue
+        plain = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', chunk)
+        plain = re.sub(r'\[[^\]]+\]\(([^)]*)\)', lambda m: m.group(0).split('](')[0][1:], plain)
+        plain = re.sub(r'[`*_>#-]+', ' ', plain)
+        plain = re.sub(r'\s+', ' ', plain).strip()
+        if plain:
+            return plain
+    return None
+
+
+def normalize_meta(meta: dict[str, object], fallback_slug: str, body: str) -> dict[str, object]:
     slug = clean_value(str(meta.get('slug') or fallback_slug)) or fallback_slug
     raw_tags = clean_value(str(meta.get('tags') or ''))
     tags = list(dict.fromkeys(t.strip() for t in raw_tags.split(',') if t.strip())) if raw_tags else []
@@ -64,7 +81,7 @@ def normalize_meta(meta: dict[str, object], fallback_slug: str) -> dict[str, obj
         'slug': slugify(slug),
         'date': normalize_date(str(meta.get('date') or '')),
         'author': clean_value(str(meta.get('author') or meta.get('authors') or '')),
-        'description': clean_value(str(meta.get('description') or meta.get('summary') or '')),
+        'description': clean_value(str(meta.get('description') or meta.get('summary') or '')) or extract_description(body),
         'tags': tags,
     }
 
@@ -97,7 +114,8 @@ def parse_markdown(path: Path) -> tuple[dict[str, object], str]:
         if meta:
             body = '\n'.join(lines[idx:]).lstrip()
     body = md(body, heading_style='ATX') if '<' in body else body
-    return normalize_meta(meta, path.stem), clean_markdown_body(body)
+    body = clean_markdown_body(body)
+    return normalize_meta(meta, path.stem, body), body
 
 
 def write_page(path: Path, meta: dict[str, object], body: str) -> None:

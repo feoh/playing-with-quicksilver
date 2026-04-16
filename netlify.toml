@@ -1,3 +1,3 @@
 [build]
-  publish = "output"
-  command = "nikola build"
+  publish = "public"
+  command = "python scripts/convert_nikola_to_hugo.py && ./.tools/hugo/hugo --cleanDestinationDir --destination public && python scripts/generate_legacy_feeds.py"

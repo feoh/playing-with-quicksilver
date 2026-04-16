@@ -1,10 +1,18 @@
 ---
-title: I Am So Done With The Masking Policy Issue
+title: I am SO DONE With the Masking Policy Issue
 slug: i-am-so-done-with-the-masking-policy-issue
+date: '2024-05-28T12:30:51-04:00'
+description: A plea for people to stop tearing each other apart over masking policy.
+tags:
+- masking
+- policy
+- covid-19
+- pandemic
+- health
+- safety
 ---
 
-[
-![A Weary Old Man Wearing a Facemask. Image by MidJourney](/images/WearyMaskedOldMan.png)
+![I Don't Use AI Art Any More.](/images/idontuseaiartanymore.png)
 First off:
 - I am not against masks.
 - I am not against mask policies.

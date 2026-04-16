@@ -2,6 +2,7 @@
 title: The Only Winning Move Is Not To Play
 slug: the-only-winning-move-is-not-to-play
 date: '2022-07-29T21:01:39-04:00'
+description: I have always in my heart of hearts been an idealist.
 tags:
 - life
 - philosophy

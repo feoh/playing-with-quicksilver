@@ -1,16 +1,16 @@
-[<!--](<!--.md)
+<!--
 .. title: I am SO DONE With the Masking Policy Issue
 .. slug: i-am-so-done-with-the-masking-policy-issue
 .. date: 2024-05-28 12:30:51 UTC-04:00
 .. tags: masking, policy, covid-19, pandemic, health, safety
 .. category: Rants
 .. link: 
-.. description: 
-.. previewimage: /images/WearyMaskedOldMan.png
+.. description: A plea for people to stop tearing each other apart over masking policy.
+.. previewimage: /images/idontuseaiartanymore.png
 .. type: text
 -->
 
-![A Weary Old Man Wearing a Facemask. Image by MidJourney](/images/WearyMaskedOldMan.png)
+![I Don't Use AI Art Any More.](/images/idontuseaiartanymore.png)
 
 First off:
 

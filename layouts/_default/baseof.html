@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="/rss.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title }} Atom" href="/feed.atom">
   <link rel="stylesheet" href="/css/site.css">
 </head>
 <body>
@@ -19,5 +21,11 @@
   <main class="wrap">
     {{ block "main" . }}{{ end }}
   </main>
+  <footer class="site-footer">
+    <div class="wrap footer-wrap">
+      <p>Playing With Quicksilver, now on a Hugo preview branch.</p>
+      <p><a href="/rss.xml">RSS</a> · <a href="/feed.atom">Atom</a> · <a href="/posts/">Archive</a></p>
+    </div>
+  </footer>
 </body>
 </html>

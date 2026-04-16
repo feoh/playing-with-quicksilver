@@ -2,6 +2,8 @@
 title: The EFF is Wrong About Kiwi Farms
 slug: eff-kiwi-farm-stance-is-wrong
 date: '2023-09-09T19:35:18-04:00'
+description: Seeing a lot of people (rightly?) be up in arms about the @eff@mastodon.social's
+  stance on Kiwifarms.
 tags:
 - eff
 - internet
