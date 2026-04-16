@@ -2,9 +2,11 @@
 title: Substack Considered Harmful
 slug: substack-considered-harmful
 date: '2023-04-27T05:21:20-04:00'
+description: Why Substack's incentives and structure can make public discourse worse
+  instead of better.
 tags:
 - writing
-- cuulture
+- culture
 - online
 - internet
 - society
@@ -14,8 +16,8 @@ tags:
 
 !["Echo and the Lightman" by duane.schoon is licensed under CC BY-NC-SA 2.0. To
 view a copy of this license, visit
-https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.](/images/Echo\_And\_The\_Lightman.jpg)
-\_Editor's Note: I used ChatGPT to help me be less of a windbag. The intent, if not the exact phrasing, is entirely mine.\_
+https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.](/images/Echo_And_The_Lightman.jpg)
+_Editor's Note: I used ChatGPT to help me be less of a windbag. The intent, if not the exact phrasing, is entirely mine._
 ## Setting The Scene
 In my [previous
 post](https://playingwithquicksilver.net/posts/the-only-winning-move-is-not-to-play/)
@@ -52,7 +54,7 @@ where free tier folks get the occasionally throw-away post and paid subscribers
 get "The Good Stuff" which may include various perks.
 Sounds good, right? There needs to be a platform where independent journalists,
 deplatformed pundits and others can exercise their constitutionally granted
-rights of free speech. That \*IS\* good, at least on the face of it.
+rights of free speech. That *IS* good, at least on the face of it.
 I see a number of problems, ranging from the merely annoying to potentially
 quite serious.
 ### Frankly My Dear, You Still Need an Editor
@@ -63,14 +65,14 @@ spelling errors, but perhaps even more importantly for conciseness and
 suitability to task. Does the piece live up to the name on the masthead? Will it
 repay the reader for their contribution in time and effort?
 These are important questions, and I often find myself wondering if many
-Substack writers as them of themselves at all anymore.
+Substack writers ask them of themselves at all anymore.
 I don't really care what manner of fun T-shirts you're wearing these days, or
 that you feel persecuted by the mainstream press who unfairly cancelled you.
 These are commiseration best performed with friends over a beverage of choice
 rather than broadcast to a larger audience.
-Am I saying that \*every\* substack writer suffers from this? No. I know of at
-least 1 or 2 who don't, and I suepect that either they've retained an editor or
-the have an in-built talent for it themselves.
+Am I saying that *every* Substack writer suffers from this? No. I know of at
+least one or two who don't, and I suspect that either they've retained an editor or
+they have an in-built talent for it themselves.
 ### Amplified Echo Chambers Are Not The Answer
 One of the problems that's been much discussed but to my mind poorly understood
 is the tendency for many modern social media platforms to create hyper-polarized
@@ -80,7 +82,7 @@ combat the information bubbles that people form around themselves and their
 tribe.
 Creating a multitude of cults of personality, each complete with its own mimetic
 megaphone and echo chamber seems like a recipe for trouble.
-Only this time,everyone thinks they're being open minded and erudite.
+Only this time, everyone thinks they're being open minded and erudite.
 ### More Commons, Fewer Megaphones
 One of the gifts the early internet bestowed upon its participants was an
 appreciation for how beautiful communities can be in the small.

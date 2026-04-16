@@ -33,7 +33,7 @@ Not long after that post, I happened to be at a local Infosec conference where I
 saw a talk about [Techs for Reproductive Justice](https://techies4rj.org/).
 Those folks are seriously awesome people and doing really great work, so I've
 been doing my best to help out there.
-It feels \*good\* to actually \*do\* something. To move the needle as a result of
+It feels *good* to actually *do* something. To move the needle as a result of
 your actions, even if it's only by an infinitesimal amount.
 So I would humbly suggest that others do the same. Take that energy you might
 otherwise spend reading the news or doom scrolling and put it towards helping

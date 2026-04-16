@@ -1,8 +1,12 @@
 {{ define "main" }}
 <section class="hero">
-  <div>
+  <div class="hero-copy">
+    <p class="eyebrow">Personal blog</p>
     <h1>Playing With Quicksilver</h1>
     <p class="dek">Personal writing from Chris Patti, covering culture, politics, technology, and whatever else seems worth saying.</p>
+  </div>
+  <div class="hero-aside">
+    <p>This Hugo preview keeps the writing front and center, with clean feeds, tag pages, and a calmer reading experience.</p>
   </div>
 </section>
 
@@ -18,7 +22,7 @@
 </section>
 {{ end }}
 
-<section>
+<section class="recent-section">
   <h2>Recent posts</h2>
   <div class="post-list">
     {{ range first 12 (after 1 $posts) }}

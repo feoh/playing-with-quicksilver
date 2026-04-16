@@ -2,12 +2,12 @@
 .. title: Substack Considered Harmful
 .. slug: substack-considered-harmful
 .. date: 2023-04-27 05:21:20 UTC-04:00
-.. tags: writing,cuulture,online,internet,society,problems,substack
+.. tags: writing,culture,online,internet,society,problems,substack
 .. previewimage: /images/Echo_And_The_Lightman.jpg
 .. status: published
 .. category: 
 .. link: 
-.. description: 
+.. description: Why Substack's incentives and structure can make public discourse worse instead of better.
 .. type: text
 -->
 
@@ -79,16 +79,16 @@ suitability to task. Does the piece live up to the name on the masthead? Will it
 repay the reader for their contribution in time and effort?
 
 These are important questions, and I often find myself wondering if many
-Substack writers as them of themselves at all anymore.
+Substack writers ask them of themselves at all anymore.
 
 I don't really care what manner of fun T-shirts you're wearing these days, or
 that you feel persecuted by the mainstream press who unfairly cancelled you.
 These are commiseration best performed with friends over a beverage of choice
 rather than broadcast to a larger audience.
 
-Am I saying that *every* substack writer suffers from this? No. I know of at
-least 1 or 2 who don't, and I suepect that either they've retained an editor or
-the have an in-built talent for it themselves.
+Am I saying that *every* Substack writer suffers from this? No. I know of at
+least one or two who don't, and I suspect that either they've retained an editor or
+they have an in-built talent for it themselves.
 
 ### Amplified Echo Chambers Are Not The Answer
 
@@ -103,7 +103,7 @@ tribe.
 Creating a multitude of cults of personality, each complete with its own mimetic
 megaphone and echo chamber seems like a recipe for trouble.
 
-Only this time,everyone thinks they're being open minded and erudite.
+Only this time, everyone thinks they're being open minded and erudite.
 
 ### More Commons, Fewer Megaphones
 

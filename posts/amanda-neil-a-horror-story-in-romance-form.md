@@ -5,7 +5,7 @@
 .. tags: art,entertainment,rape,sex,trafficking,artists,fans
 .. category: 
 .. link: 
-.. description: 
+.. description: On loving difficult art, losing faith in beloved artists, and the cost of looking away.
 .. type: text
 -->
 
@@ -35,7 +35,7 @@ hardships of life and death and what it might be like to be a being that in some
 ways transcended all these things, and in others not so much.
 
 I'll admit it never really dawned on me that one of the threads tying the
-_Sandman_ narrative together was the idea that we should pity for monster. That
+_Sandman_ narrative together was the idea that we should pity the monster. That
 they can hurt too. All of this was in a disconnected realm of fantasy. An escape
 from the bits of my life that fit like a bad suit.
 
@@ -45,7 +45,7 @@ very real sense? Well, needless to say I'm finding that hard to take.
 
 ## The (Dresden) Doll's House And What Happened There
 And then there's Amanda Palmer. I fell in love with her work through her band,
-the Dresden Dolls.  I first saw them at Arisia, a Boston area science fiction
+the Dresden Dolls. I first saw them at Arisia, a Boston area science fiction
 convention, sometime in the 90s.
 
 I was blown away. Most music at cons could most kindly be called
@@ -69,7 +69,7 @@ And for a few years, it was good.
 ## Trouble in ... Paradise?
 And then the pandemic hit and the world turned upside down.
 
-Even before that, I'd heard rumors that there was trouble in Neil & Amanda-land.
+Even before that, I'd heard rumors that there was trouble in Neil and Amanda land.
 
 Then, I read about a podcast where rape / abuse allegations were involved.
 

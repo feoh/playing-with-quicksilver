@@ -10,6 +10,7 @@ import yaml
 from markdownify import markdownify as md
 
 TEASER_MARKER = '<!-- TEASER_END -->'
+MORE_MARKER = '<!--more-->'
 
 ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = ROOT / 'posts'
@@ -54,6 +55,8 @@ def normalize_date(value: str | None) -> str | None:
 
 def clean_markdown_body(text: str) -> str:
     text = text.replace(TEASER_MARKER, '')
+    text = text.replace(MORE_MARKER, '')
+    text = text.replace('\\*', '*').replace('\\_', '_')
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip() + '\n'
 

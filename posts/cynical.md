@@ -7,7 +7,7 @@
 .. status: draft
 .. category: 
 .. link: 
-.. description: 
+.. description: Choosing pragmatic hope over corrosive cynicism in a bleak moment.
 .. type: text
 -->
 
@@ -23,20 +23,20 @@ full, DAMMIT!" kind of person :)
 
 ## Walking Down The Dark Tunnel of Cynicism
 
-But a pattern I can't ignore over the last few years is that the long langorous
-trips down the intillectual rabbit holes that represented everything to me in
+But a pattern I can't ignore over the last few years is that the long languorous
+trips down the intellectual rabbit holes that represented everything to me in
 my younger life are starting to feel less like they used to.
 
 It's not that I don't still absolutely revel in the act of exploring, whether
 in the form of excitedly learning everything I can about a new topic or diving
-head-first into some shiny new technology, beacause I do. It's that these days
+head-first into some shiny new technology, because I do. It's that these days
 the conclusions I draw when I come up for air are just as likely to paint a
 picture of foreboding and concern for the future as they are one awash in the
 boundless optimism that characterized most of my life.
 
 And to a certain extent, how can that not be the case? I don't need to tick off
 the looming uncertainties of our time, but the world is in, shall we say a very
-challenging place right now. We are on the brink of a potenailly tectonic
+challenging place right now. We are on the brink of a potentially tectonic
 economic change as we adapt to the post pandemic economy and at the very same
 time advances in technologies like machine learning (AI if you speak marketing)
 are experiencing such rapid progress as to be unlike anything I've seen in my
@@ -55,7 +55,7 @@ does anyone gain focusing on that and dwelling on pointlessly self indulgent
 fixations with how awful the world is?
 
 Instead, I choose pragmatic hope. I realize adding a qualifier in there feels
-like I'm dilutimg my own point, but I think it's an important enough distinction
+like I'm diluting my own point, but I think it's an important enough distinction
 to make.
 
 I'm not going to fix American politics. I'm not going to cure COVID-19 or save
@@ -96,7 +96,7 @@ It's also about being merciless about cutting things out that aren't
 contributing to that bottom line. This can be very hard to do. There are all
 kinds of cues, internal and external, that drive us to consume things that we
 might find entertaining or even edifying in some respects, but that don't
-contributeo to our plan for a healthier and more positive outlook that is the
+contribute to our plan for a healthier and more positive outlook that is the
 "bottom line" of this entire endeavor. I'm not going to list mine here, but I
 can tell you I'll be reading a LOT less politics and news and a lot more for
 inspiration in all its forms.
@@ -105,10 +105,10 @@ Feeding your creativity is one of those "drive the flywheel" kinds of processes
 that pays dividends in ways that might not be immediately obvious. Our minds are
 not compartmentalized machines, so reading a really compelling science fiction
 novel may well lead you down a line of thinking that helps you at work. And you
-may neve even be aware of it!
+may never even be aware of it!
 
 Writing can also help. You're not just sitting back passively consuming, you're
-actually creating something! It doesn't have to be Shakespare. Understanding
+actually creating something! It doesn't have to be Shakespeare. Understanding
 that at a very deep level is liberating!
 
 I will not waste the remainder of my life on pointless negativity. This is a
