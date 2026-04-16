@@ -1,0 +1,25 @@
+baseURL = "https://www.playingwithquicksilver.com/"
+languageCode = "en-us"
+title = "Playing With Quicksilver"
+summaryLength = 40
+
+[params]
+  description = "Personal writing from Chris Patti."
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  posts = "/posts/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "rss"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

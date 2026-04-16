@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="single">
+  <h1>{{ .Title }}</h1>
+  {{ if .Date }}<p class="meta">{{ .Date.Format "2006-01-02" }}</p>{{ end }}
+  {{ partial "tags.html" . }}
+  <div class="content">{{ .Content }}</div>
+</article>
+{{ end }}

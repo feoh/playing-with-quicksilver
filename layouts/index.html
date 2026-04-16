@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="hero">
+  <div>
+    <h1>Playing With Quicksilver</h1>
+    <p class="dek">Personal writing from Chris Patti, covering culture, politics, technology, and whatever else seems worth saying.</p>
+  </div>
+</section>
+
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ with index $posts 0 }}
+<section class="featured">
+  <p class="eyebrow">Latest post</p>
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <p class="meta">{{ .Date.Format "2006-01-02" }}</p>
+  <p>{{ .Summary }}</p>
+  <p><a href="{{ .RelPermalink }}">Keep reading</a></p>
+  {{ partial "tags.html" . }}
+</section>
+{{ end }}
+
+<section>
+  <h2>Recent posts</h2>
+  <div class="post-list">
+    {{ range first 12 (after 1 $posts) }}
+      <article class="post-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="meta">{{ .Date.Format "2006-01-02" }}</p>
+        <p>{{ .Summary }}</p>
+        <p><a href="{{ .RelPermalink }}">Read more</a></p>
+        {{ partial "tags.html" . }}
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

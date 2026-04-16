@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+<div class="post-list">
+  {{ range .Pages }}
+    <article class="post-card">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="meta">{{ .Date.Format "2006-01-02" }}</p>
+      <p>{{ .Summary }}</p>
+      {{ partial "tags.html" . }}
+    </article>
+  {{ end }}
+</div>
+{{ end }}

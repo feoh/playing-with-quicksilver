@@ -11,6 +11,9 @@
 *.py[cod]
 cache/
 output/
+public/
+.tools/
+.hugo_build.lock
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
