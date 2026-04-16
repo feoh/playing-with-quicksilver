@@ -30,8 +30,3 @@ python scripts/generate_legacy_feeds.py
 ./deploy.sh
 ```
 
-Optional overrides:
-
-```bash
-AWS_PROFILE=personal S3_BUCKET=playingwithquicksilver.com ./deploy.sh
-```
