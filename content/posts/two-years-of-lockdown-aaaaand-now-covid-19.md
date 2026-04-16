@@ -10,7 +10,9 @@ tags:
 - health
 ---
 
-![Biohazard Grunge Sign - Sepia](https://live.staticflickr.com/8545/8677710022_3a060c5630_b.jpg)["Biohazard Grunge Sign - Sepia"](https://www.flickr.com/photos/80497449@N04/8677710022) by [Free Grunge Textures - www.freestock.ca](https://www.flickr.com/photos/80497449@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/&atype=html)[![](https://search.openverse.engineering/static/img/cc_icon.svg?media_id=c57997ae-cb1e-4e8a-b8bf-dc0351e505a7)](https://creativecommons.org/licenses/by/2.0/&atype=html)
+![Biohazard Grunge Sign - Sepia](https://live.staticflickr.com/8545/8677710022_3a060c5630_b.jpg)
+
+*Image credit: ["Biohazard Grunge Sign - Sepia"](https://www.flickr.com/photos/80497449@N04/8677710022) by [Free Grunge Textures - www.freestock.ca](https://www.flickr.com/photos/80497449@N04), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/&atype=html).*
 
 For the last two years, we have stayed 1000% locked down. Masks, minimal contact with anyone outside our household, all of it.
 But hey, things are opening up, right? Time for us all to take on a BIT more risk, go out into the world and live a little.
