@@ -10,7 +10,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / 'content' / 'posts'
 PUBLIC = ROOT / 'public'
-BASE = 'https://www.playingwithquicksilver.com/'
+BASE = 'https://playingwithquicksilver.net/'
 SITE_TITLE = 'Playing With Quicksilver'
 SITE_DESC = 'Personal writing from Chris Patti.'
 
